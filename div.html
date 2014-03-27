@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Height</title>
+	<style>
+		body {
+			height: 100%;
+			width: 100%;
+			background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, rgb(233, 65, 65)), color-stop(1, rgb(255, 91, 91)));
+			background-image: -ms-linear-gradient(right bottom, rgb(233, 65, 65) 100%, rgb(255, 91, 91) 100%);
+			background-image: -o-linear-gradient(right bottom, rgb(233, 65, 65) 100%, rgb(255, 91, 91) 100%);
+			background-image: -moz-linear-gradient(right bottom, rgb(233, 65, 65) 100%, rgb(255, 91, 91) 100%);
+		}
+
+		.b-head header h1 {
+			font-size: 46.01px;
+			font-family: "PT Sans Caption";
+			color: rgb(255, 255, 255);
+			text-align: center;
+			text-shadow: 0.5px 0.866px 1px rgb(0, 0, 0);
+		}
+
+		.b-head header .b-head-title {
+			font-size: 27.01px;
+			font-family: "PT Sans Caption", "Consolas";
+			color: rgb(255, 255, 255);
+			text-shadow: 0.5px 0.866px 1px rgb(0, 0, 0);
+			text-align: center;
+		}
+
+		.b-head header #triangle-left {
+			position: relative;
+			background: url("images/ya.png") #ffffff 0% 50% no-repeat;
+			top: 50px;
+			left: 0px;
+			width: 195px;
+			height: 37px;
+			margin: 0;
+			padding: 0;
+		}
+
+		.b-head header #triangle-left::after {
+			border-radius: 10px 10px 10px 10px;
+		}
+
+		.b-main .b-main-submit {
+			text-align: center;
+			margin: 0.5%;
+		}
+
+		.b-main .b-main-submit form input {
+			border: none;
+			margin: 0.45% 0.45% 0.45% 0.45%;
+			width: 250px;
+			height: 25px;
+			text-align: left;
+			color: #333333;
+			font-weight: 500;
+			padding: 0 0 0 3px;
+			box-shadow: 0px 0px 7px 0px rgba(11, 6, 2, 0.77);
+			-webkit-box-shadow: 0px 0px 7px 0px rgba(11, 6, 2, 0.77);
+			-moz-box-shadow: 0px 0px 7px 0px rgba(11, 6, 2, 0.77);
+		}
+
+		.b-main .b-main-submit form input:focus {
+			outline: none;
+			box-shadow: 0px 0px 17px 0px rgba(255, 204, 2, 0.80);
+			-webkit-box-shadow: 0px 0px 20px 0px rgba(255, 204, 2, 0.80);
+			-moz-box-shadow: 0px 0px 17px 0px rgba(255, 204, 2, 0.80);
+		}
+
+		.b-main .b-main-submit .btn-submit {
+			-moz-font-feature-settings: normal;
+			-moz-font-language-override: normal;
+			-x-system-font: none;
+			color: #333333;
+			font-weight: 700;
+			font-family: Arial, sans-serif;
+			white-space: nowrap;
+			border: none;
+			margin-top: 1%;
+			height: 25px;
+			width: 160px;
+			text-shadow: 0.5px 0.866px 0.4px rgb(185, 131, 0);
+			background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #FFCC00), color-stop(1, #ffcc00));
+			background-image: -ms-linear-gradient(right bottom, #FFCC00 100%, #ffcc00 100%);
+			background-image: -o-linear-gradient(right bottom, #FFCC00 100%, #ffcc00 100%);
+			background-image: -moz-linear-gradient(right bottom, #FFCC00 100%, #ffcc00 100%);
+			-webkit-box-shadow: 0px 0px 10px 0px rgba(17, 20, 0, 0.77);
+			-moz-box-shadow: 0px 0px 10px 0px rgba(17, 20, 0, 0.77);
+			box-shadow: 0px 0px 10px 0px rgba(17, 20, 0, 0.77);
+		}
+
+		.b-main .b-main-submit .btn-submit:hover {
+			cursor: pointer;
+			-webkit-box-shadow: 0px 0px 12px 0px rgba(11, 6, 2, 0.77);
+			-moz-box-shadow: 0px 0px 12px 0px rgba(11, 6, 2, 0.77);
+			box-shadow: 0px 0px 12px 0px rgba(11, 6, 2, 0.77);
+			background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #ffde00), color-stop(1, #eecf01));
+			background-image: -ms-linear-gradient(right bottom, #FFCC00 100%, #ffcc00 100%);
+			background-image: -o-linear-gradient(right bottom, #FFCC00 100%, #ffcc00 100%);
+			background-image: -moz-linear-gradient(right bottom, #FFCC00 100%, #ffcc00 100%);
+		}
+
+		.transition:hover {
+			width: 200px;
+			height: 200px;
+			position: relative;
+			background: yellow;
+		}
+
+		.transition:hover{
+			-webkit-trans
+			-webkit-transition-property:width;
+			-webkit-transition-duration:1s;
+			-webkit-transition-timing-function:linear;
+			-webkit-transition-delay:2s;
+			transition-property: width;
+			transition-duration: 1s;
+			transition-timing-function: linear;
+			transition-delay:5s;
+		}
+	</style>
+</head>
+<body>
+<div class="wrapper">
+	<div class="b-head">
+		<div class="transition">sdfsdfdsfsdsfd</div>
+		<header>
+			<div id="triangle-left"></div>
+			<div class="heading">
+
+				<h1>Начать тестировать новую модель</h1>
+
+				<div class="b-head-title">Протестировать механизм размещение по СРА можно уже сейчас отправив заявку
+					<br/>Работать по этой модели Маркет начнет в конце этого года.
+				</div>
+			</div>
+		</header>
+	</div>
+	<div class="b-main">
+		<main>
+			<div class="b-main-submit">
+				<form action="" method="" role="form">
+					<input type="text" name="real_name" placeholder="Имя">
+					<input type="text" name="l_name" placeholder="Фамилия"><br>
+					<input type="text" name="t_name" placeholder="Отчество">
+					<input type="email" name="email" placeholder="E-mail"><br>
+					<button type="submit" class="btn-submit">Отправить заявку</button>
+				</form>
+			</div>
+		</main>
+	</div>
+	<div class="b-footer">
+
+	</div>
+</div>
+</body>
+</html>
