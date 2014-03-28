@@ -1,0 +1,71 @@
+@import "normalize.css";
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, rgb(233, 65, 65)), color-stop(1, rgb(255, 91, 91)));
+	background-image: -ms-linear-gradient(right bottom, rgb(233, 65, 65) 100%, rgb(255, 91, 91) 100%);
+	background-image: -o-linear-gradient(right bottom, rgb(233, 65, 65) 100%, rgb(255, 91, 91) 100%);
+	background-image: -moz-linear-gradient(right bottom, rgb(233, 65, 65) 100%, rgb(255, 91, 91) 100%);
+}
+
+#wrapper {
+	margin: auto;
+	padding: 0;
+}
+
+header {
+	width: 100%;
+}
+
+.b-header .b-header-logo {
+	width: 20%;
+	text-align: left;
+	color: red;
+}
+
+#b-nav_t {
+	text-align: center;
+}
+
+#b-nav_t > ul > li {
+	display: inline-block;
+	text-align: center;
+	font-family: "Consalos", "PT Sans";
+	font-weight: 700;
+	list-style: none;
+	padding: 4px;
+	border-right: 1px solid #333;
+}
+
+main .b-lightbox ul {
+	margin: 0 auto;
+	text-align: center;
+}
+
+main .b-lightbox ul li {
+	display: inline-block;
+	list-style: none;
+	margin: 10px;
+
+}
+
+main .b-lightbox ul li img {
+	opacity: 0.8;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+main .b-lightbox ul li img:hover {
+	opacity: 1;
+	cursor: pointer;
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(17, 20, 0, 0.77);
+	-moz-box-shadow: 0px 0px 7px 0px rgba(17, 20, 0, 0.77);
+	box-shadow: 0px 0px 7px 0px rgba(17, 20, 0, 0.77);
+}

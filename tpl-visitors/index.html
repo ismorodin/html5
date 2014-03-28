@@ -1,9 +1,192 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
-	<title></title>
+	<meta charset="UTF-8"/>
+	<title>Организации</title>
+	<link rel="stylesheet" href="css/lightbox.css">
+	<link rel="stylesheet" href="css/main.css">
+	<script src="js/jquery-1.10.2.min.js"></script>
+	<script src="js/jquery-ui.js"></script>
+	<script src="js/jquery.ui.sortable.js"></script>
+	<script src="js/lightbox-2.6.min.js"></script>
 </head>
 <body>
+<div id="wrapper">
+	<header>
+		<div class="b-header">
+			<div class="b-header-logo"><h1>Проектной организации.</h1></div>
+		</div>
+	</header>
+	<nav id="b-nav_t">
+		<ul>
+			<li>Главная</li>
+			<li>О компании</li>
+			<li>Выполненные проекты</li>
+			<li>Реализованные объекты</li>
+			<li>Контакты</li>
+		</ul>
+	</nav>
+	<main>
+		<div class="b-lightbox">
+			<ul>
+				<li><a href="http://placehold.it/800x800" data-lightbox="image-1" title="My caption 1"><img
+						src="http://placehold.it/300x200"></a></li>
+				<li><a href="http://placehold.it/800x200" data-lightbox="image-1" title="My caption 1"><img
+						src="http://placehold.it/300x200"></a></li>
+				<li><a href="http://placehold.it/800x200" data-lightbox="image-1" title="My caption 1"><img
+						src="http://placehold.it/300x200"></a></li>
+				<li><a href="http://placehold.it/800x200" data-lightbox="image-1" title="My caption 1"><img
+						src="http://placehold.it/300x200"></a></li>
+			</ul>
+		</div>
+	</main>
+	<footer>
+		<div class="column">
+			<div class="box">
+				<div class="box-header">
+					1
+				</div>
+				<div class="box-content">
+					<p>
+						1
+					</p>
+				</div>
+			</div>
+		</div>
 
+
+		<div id="sortable">
+			<div class="ui-state-default" id="i_1">
+				<h3>Section 1</h3>
+
+				<div class="section-1">
+					This is the Section 1 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="i_2">
+				<h3>Section 2</h3>
+
+				<div class="section-2">
+					This is the Section 2 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="i_3">
+				<h3>Section 3</h3>
+
+				<div class="section-3">
+					This is the Section 3 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="i_4">
+				<h3>Section 4</h3>
+
+				<div class="section-4">
+					This is the Section 4 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="i_5">
+				<h3>Section 5</h3>
+
+				<div class="section-5">
+					This is the Section 5 content and such...
+				</div>
+			</div>
+		</div>
+
+		<div id="sortablemain">
+			<div class="ui-state-default" id="ma_1">
+				<h2>Section 1</h2>
+
+				<div class="section-1">
+					This is the Section 1 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="ma_2">
+				<h2>Section 2</h2>
+
+				<div class="section-2">
+					This is the Section 2 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="ma_3">
+				<h2>Section 3</h2>
+
+				<div class="section-3">
+					This is the Section 3 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="ma_4">
+				<h2>Section 4</h2>
+
+				<div class="section-4">
+					This is the Section 4 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="ma_5">
+				<h2>Section 5</h2>
+
+				<div class="section-5">
+					This is the Section 5 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="ma_6">
+				<h2>Section 6</h2>
+
+				<div class="section-6">
+					This is the Section 6 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="ma_7">
+				<h2>Section 7</h2>
+
+				<div class="section-7">
+					This is the Section 7 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="ma_8">
+				<h2>Section 8</h2>
+
+				<div class="section-8">
+					This is the Section 8 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="ma_9">
+				<h2>Section 9</h2>
+
+				<div class="section-9">
+					This is the Section 9 content and such...
+				</div>
+			</div>
+			<div class="ui-state-default" id="ma_10">
+				<h2>Section 10</h2>
+
+				<div class="section-10">
+					This is the Section 10 content and such...
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
+<style>
+	#sortable, #sortablemain {
+		width: 200px;
+		float: left;
+		margin-right: 50px;
+	}
+
+	#sortable h3 {
+		background: #000;
+		color: #fff;
+		border-bottom: 1px solid #000;
+	}
+
+	#sortablemain h2 {
+		background: #ff0000;
+		color: #fff;
+		border-bottom: 1px solid #000;
+	}
+</style>
+<script src="js/jQueryRotateCompressed.js"></script>
+<script src="js/main.js"></script>
 </body>
 </html>
