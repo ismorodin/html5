@@ -1,0 +1,568 @@
+[Sun Mar 30 15:01:22.852223 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48931] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:01:22.886262 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48931] PHP Notice:  Undefined variable: asd in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11
+[Sun Mar 30 15:01:23.266211 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48931] PHP Notice:  Undefined variable: asd in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11, referer: http://html5.loc/
+[Sun Mar 30 15:01:24.431302 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48931] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:01:24.432273 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48931] PHP Notice:  Undefined variable: asd in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11
+[Sun Mar 30 15:01:24.555281 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48931] PHP Notice:  Undefined variable: asd in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11, referer: http://html5.loc/
+[Sun Mar 30 15:01:28.103480 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48931] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:01:28.103480 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48931] PHP Notice:  Undefined variable: asd in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11
+[Sun Mar 30 15:01:28.194484 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48931] PHP Notice:  Undefined variable: asd in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11, referer: http://html5.loc/
+[Sun Mar 30 15:01:34.216842 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48946] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:01:35.164929 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48946] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:01:42.246276 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48955] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:01:42.922317 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48955] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:01:43.126327 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48955] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:01:52.653870 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48965] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:01:56.137094 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48965] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:01:56.790097 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:48965] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Sun Mar 30 15:02:43.223714 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49009] PHP Notice:  Undefined index: razdel in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 12
+[Sun Mar 30 15:02:46.260927 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49009] PHP Notice:  Undefined index: razdel in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 12
+[Sun Mar 30 15:03:38.936854 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49047] PHP Notice:  Undefined index: foo in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 19
+[Sun Mar 30 15:03:39.183916 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49047] script 'F:/WAMP/usr/Apache24/htdocs/html5/script.php' not found or unable to stat, referer: http://html5.loc/
+[Sun Mar 30 15:03:39.973914 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49047] PHP Notice:  Undefined index: foo in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 19
+[Sun Mar 30 15:03:40.073919 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49047] script 'F:/WAMP/usr/Apache24/htdocs/html5/script.php' not found or unable to stat, referer: http://html5.loc/
+[Sun Mar 30 15:03:45.866247 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49053] PHP Notice:  Undefined index: foo in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 19
+[Sun Mar 30 15:04:00.584078 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49068] PHP Notice:  Undefined index: foo in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 19
+[Sun Mar 30 15:04:12.935774 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49081] PHP Notice:  Undefined index: foo in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 19
+[Sun Mar 30 15:04:18.361078 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49093] PHP Notice:  Undefined index: foo in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 19
+[Sun Mar 30 15:04:21.231245 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49093] PHP Notice:  Undefined index: foo in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 19
+[Sun Mar 30 15:05:10.878039 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49143] PHP Notice:  Undefined index: foo in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 19
+[Sun Mar 30 15:09:21.463162 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49611] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 16
+[Sun Mar 30 15:09:33.975868 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49631] PHP Notice:  Array to string conversion in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 16
+[Sun Mar 30 15:09:34.149879 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:49631] PHP Notice:  Array to string conversion in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 16, referer: http://html5.loc/index.php
+[Sun Mar 30 15:21:57.096760 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50689] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 16
+[Sun Mar 30 15:21:58.343872 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50689] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 16
+[Sun Mar 30 15:22:18.313956 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50715] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 16
+[Sun Mar 30 15:22:25.242347 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50715] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 16
+[Sun Mar 30 15:22:45.561550 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50754] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:22:46.436548 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50754] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:22:48.038632 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50754] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:22:48.790696 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50754] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:23:19.217446 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50783] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:23:20.135441 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50783] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:23:24.908709 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50783] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:23:30.392082 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50804] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:23:34.171234 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50804] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:23:34.344242 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50804] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/index.php
+[Sun Mar 30 15:23:35.415303 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50804] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:23:35.553368 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50804] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/index.php
+[Sun Mar 30 15:23:41.345640 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50819] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:23:42.364698 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50819] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:24:15.337576 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50857] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:24:15.538564 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50857] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/index.php
+[Sun Mar 30 15:24:16.138602 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50857] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:24:16.312606 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50857] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/index.php
+[Sun Mar 30 15:24:17.160654 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50857] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:24:17.309664 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50857] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/index.php
+[Sun Mar 30 15:24:25.136105 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50866] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:24:26.871203 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50866] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:24:37.872822 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50887] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:24:38.088835 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50887] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/index.php
+[Sun Mar 30 15:24:57.388923 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50909] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17
+[Sun Mar 30 15:25:34.689083 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50961] PHP Notice:  Undefined index: password in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18
+[Sun Mar 30 15:25:46.121710 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50978] PHP Notice:  Undefined index: password in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18
+[Sun Mar 30 15:25:49.532861 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:50978] PHP Notice:  Undefined index: password in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18
+[Sun Mar 30 15:30:26.977540 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51385] PHP Fatal error:  Call to undefined method SQLite3::setAttribute() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 21
+[Sun Mar 30 15:30:27.447563 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51385] PHP Fatal error:  Call to undefined method SQLite3::setAttribute() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 21, referer: http://html5.loc/index.php
+[Sun Mar 30 15:31:33.837272 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51455] PHP Warning:  SQLite3::exec(): near &quot;AUTOINCREMENT&quot;: syntax error in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 15:31:34.035282 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51455] PHP Warning:  SQLite3::exec(): near &quot;AUTOINCREMENT&quot;: syntax error in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 15:31:43.159799 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51468] PHP Warning:  SQLite3::exec(): near &quot;AUTO_INCREMENT&quot;: syntax error in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 15:31:43.333807 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51468] PHP Warning:  SQLite3::exec(): near &quot;AUTO_INCREMENT&quot;: syntax error in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 15:31:51.096244 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51479] PHP Warning:  SQLite3::exec(): near &quot;AUTO_INCREMENTS&quot;: syntax error in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 15:31:51.283255 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51479] PHP Warning:  SQLite3::exec(): near &quot;AUTO_INCREMENTS&quot;: syntax error in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 15:33:44.108722 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51585] PHP Notice:  Undefined variable: q in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 23
+[Sun Mar 30 15:33:44.723648 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51585] PHP Notice:  Undefined variable: q in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 23, referer: http://html5.loc/index.php
+[Sun Mar 30 15:33:44.723648 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51585] PHP Warning:  SQLite3::exec(): table ajax already exists in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 26, referer: http://html5.loc/index.php
+[Sun Mar 30 15:33:53.853167 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51593] PHP Notice:  Undefined variable: q in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 23
+[Sun Mar 30 15:33:53.853167 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51593] PHP Warning:  SQLite3::exec() expects exactly 1 parameter, 0 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 26
+[Sun Mar 30 15:33:54.054174 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51593] PHP Notice:  Undefined variable: q in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 23, referer: http://html5.loc/index.php
+[Sun Mar 30 15:33:54.054174 2014] [:error] [pid 155336:tid 1008] [client 127.0.0.1:51593] PHP Warning:  SQLite3::exec() expects exactly 1 parameter, 0 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 26, referer: http://html5.loc/index.php
+[Sun Mar 30 15:38:48.224758 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:51885] PHP Warning:  SQLite3::exec() expects exactly 1 parameter, 0 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 27
+[Sun Mar 30 15:38:48.413767 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:51885] PHP Warning:  SQLite3::exec() expects exactly 1 parameter, 0 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 27, referer: http://html5.loc/index.php
+[Sun Mar 30 15:38:49.464827 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:51885] PHP Warning:  SQLite3::exec() expects exactly 1 parameter, 0 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 27
+[Sun Mar 30 15:38:49.620836 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:51885] PHP Warning:  SQLite3::exec() expects exactly 1 parameter, 0 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 27, referer: http://html5.loc/index.php
+[Sun Mar 30 15:40:31.878600 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52000] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 15:40:31.878600 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52000] PHP Warning:  SQLite3::exec(): near &quot;)&quot;: syntax error in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29
+[Sun Mar 30 15:40:32.109612 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52000] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29, referer: http://html5.loc/index.php
+[Sun Mar 30 15:40:47.433479 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52020] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 15:40:47.433479 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52020] PHP Warning:  SQLite3::exec(): near &quot;)&quot;: syntax error in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29
+[Sun Mar 30 15:40:47.624488 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52020] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29, referer: http://html5.loc/index.php
+[Sun Mar 30 15:40:56.531016 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52034] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 23
+[Sun Mar 30 15:40:56.531016 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52034] PHP Warning:  SQLite3::exec(): near &quot;)&quot;: syntax error in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 28
+[Sun Mar 30 15:40:56.719000 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52034] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 28, referer: http://html5.loc/index.php
+[Sun Mar 30 15:41:04.308430 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52047] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 28
+[Sun Mar 30 15:41:04.419434 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52047] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 28, referer: http://html5.loc/index.php?name=Ivan
+[Sun Mar 30 15:41:06.102555 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52047] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 28
+[Sun Mar 30 15:41:06.250537 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52047] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 28, referer: http://html5.loc/index.php?name=Ivan
+[Sun Mar 30 15:41:21.330430 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52066] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 28
+[Sun Mar 30 15:41:21.511398 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52066] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 28, referer: http://html5.loc/index.php?name=Ivan
+[Sun Mar 30 15:41:35.229197 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52083] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29
+[Sun Mar 30 15:41:35.385180 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52083] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29, referer: http://html5.loc/index.php?name=Ivan
+[Sun Mar 30 15:41:47.464861 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52102] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29
+[Sun Mar 30 15:41:47.635897 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52102] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29, referer: http://html5.loc/index.php?name=Ivan
+[Sun Mar 30 15:41:48.233939 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52102] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29
+[Sun Mar 30 15:41:48.347973 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:52102] PHP Warning:  SQLite3::exec(): no such column: Ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29, referer: http://html5.loc/index.php?name=Ivan
+[Sun Mar 30 15:46:05.255407 2014] [:error] [pid 155336:tid 984] [client 127.0.0.1:52348] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 23
+[Sun Mar 30 15:46:05.255407 2014] [:error] [pid 155336:tid 984] [client 127.0.0.1:52348] PHP Fatal error:  Call to undefined method SQLite3::bindParam() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29
+[Sun Mar 30 15:46:05.426402 2014] [:error] [pid 155336:tid 984] [client 127.0.0.1:52348] PHP Fatal error:  Call to undefined method SQLite3::bindParam() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29, referer: http://html5.loc/index.php
+[Sun Mar 30 15:46:36.989182 2014] [:error] [pid 155336:tid 984] [client 127.0.0.1:52382] PHP Fatal error:  Call to private SQLite3Stmt::__construct() from invalid context in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18
+[Sun Mar 30 15:46:37.178195 2014] [:error] [pid 155336:tid 984] [client 127.0.0.1:52382] PHP Fatal error:  Call to private SQLite3Stmt::__construct() from invalid context in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/index.php
+[Sun Mar 30 15:50:20.797841 2014] [:error] [pid 155336:tid 984] [client 127.0.0.1:52762] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 23
+[Sun Mar 30 15:50:20.813826 2014] [:error] [pid 155336:tid 984] [client 127.0.0.1:52762] PHP Fatal error:  Call to undefined method PDO::bindParam() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29
+[Sun Mar 30 15:50:20.987815 2014] [:error] [pid 155336:tid 984] [client 127.0.0.1:52762] PHP Fatal error:  Call to undefined method PDO::bindParam() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 29, referer: http://html5.loc/index.php
+[Sun Mar 30 15:50:40.982979 2014] [:error] [pid 155336:tid 984] [client 127.0.0.1:52791] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 23
+[Sun Mar 30 15:57:55.157447 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53188] PHP Warning:  PDO::exec() expects exactly 1 parameter, 0 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 15:57:55.346421 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53188] PHP Warning:  PDO::exec() expects exactly 1 parameter, 0 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 15:59:13.830888 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53275] PHP Warning:  PDOStatement::bindParam() expects at least 2 parameters, 1 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 15:59:14.006856 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53275] PHP Warning:  PDOStatement::bindParam() expects at least 2 parameters, 1 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 15:59:23.607437 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53282] PHP Warning:  PDOStatement::bindParam() expects at least 2 parameters, 1 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 15:59:23.792406 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53282] PHP Warning:  PDOStatement::bindParam() expects at least 2 parameters, 1 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 15:59:36.998151 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53305] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 15:59:37.175161 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53305] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 16:00:23.464815 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53350] PHP Warning:  PDOStatement::bindParam() expects at least 2 parameters, 1 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 16:00:23.641783 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53350] PHP Warning:  PDOStatement::bindParam() expects at least 2 parameters, 1 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 16:01:48.187547 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53439] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 16:01:48.389584 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53439] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 16:01:49.207695 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53439] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 16:01:49.386614 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53439] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 16:01:57.071105 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53445] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24
+[Sun Mar 30 16:01:57.287061 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:53445] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 24, referer: http://html5.loc/index.php
+[Sun Mar 30 16:03:03.007830 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:53512] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25
+[Sun Mar 30 16:03:03.215775 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:53512] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25, referer: http://html5.loc/index.php
+[Sun Mar 30 16:03:04.203859 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:53512] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25
+[Sun Mar 30 16:03:04.375841 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:53512] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25, referer: http://html5.loc/index.php
+[Sun Mar 30 16:03:28.145188 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:53542] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25
+[Sun Mar 30 16:03:28.379195 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:53542] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25, referer: http://html5.loc/index.php
+[Sun Mar 30 16:04:42.295387 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:53616] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 26
+[Sun Mar 30 16:04:42.492373 2014] [:error] [pid 155336:tid 1012] [client 127.0.0.1:53616] PHP Fatal error:  Cannot pass parameter 2 by reference in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 26, referer: http://html5.loc/index.php
+[Sun Mar 30 16:15:29.662877 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:54315] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 22
+[Sun Mar 30 16:15:58.515479 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:54342] PHP Notice:  Undefined index: ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 22
+[Sun Mar 30 16:15:58.817496 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:54342] PHP Notice:  Undefined index: ivan in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 22, referer: http://html5.loc/
+[Sun Mar 30 16:17:16.007848 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:54419] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 22
+[Sun Mar 30 16:17:17.428931 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:54419] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 22
+[Sun Mar 30 16:20:36.742164 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:54631] PHP Notice:  Undefined index: key in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 20
+[Sun Mar 30 16:31:37.775432 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:55318] PHP Notice:  Undefined index: key in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 41
+[Sun Mar 30 16:32:20.707855 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:55378] PHP Notice:  Undefined index: data in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 41, referer: http://html5.loc/index.php
+[Sun Mar 30 16:55:52.328448 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:56893] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 2, referer: http://html5.loc/
+[Sun Mar 30 16:55:59.569830 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:56903] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 2, referer: http://html5.loc/
+[Sun Mar 30 16:56:09.192371 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:56919] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 2
+[Sun Mar 30 16:56:42.572255 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:56955] script 'F:/WAMP/usr/Apache24/htdocs/html5/ajaxx.php' not found or unable to stat, referer: http://html5.loc/
+[Sun Mar 30 16:57:46.332851 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57030] PHP Notice:  Undefined variable: _GLOBALS in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 2, referer: http://html5.loc/
+[Sun Mar 30 16:57:47.505917 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57030] PHP Notice:  Undefined variable: _GLOBALS in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 2
+[Sun Mar 30 16:58:06.154027 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57053] PHP Notice:  Undefined variable: data in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 2
+[Sun Mar 30 17:08:14.932309 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57690] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 2
+[Sun Mar 30 17:08:15.843333 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57690] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 2
+[Sun Mar 30 17:08:41.341814 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57712] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 2
+[Sun Mar 30 17:08:47.276109 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57712] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 2
+[Sun Mar 30 17:09:43.624285 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57788] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25, referer: http://html5.loc/?
+[Sun Mar 30 17:09:45.971414 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57788] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25
+[Sun Mar 30 17:09:49.499614 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57788] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25, referer: http://html5.loc/
+[Sun Mar 30 17:10:21.363436 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57823] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25, referer: http://html5.loc/
+[Sun Mar 30 17:10:25.827689 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57823] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25
+[Sun Mar 30 17:10:28.677821 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57823] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25, referer: http://html5.loc/
+[Sun Mar 30 17:10:34.203178 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57843] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25, referer: http://html5.loc/
+[Sun Mar 30 17:10:38.102353 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57843] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25, referer: http://html5.loc/
+[Sun Mar 30 17:10:47.973956 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:57858] PHP Notice:  Undefined index: postname in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 25, referer: http://html5.loc/
+[Sun Mar 30 17:22:58.269091 2014] [:error] [pid 155336:tid 996] [client 127.0.0.1:58552] script 'F:/WAMP/usr/Apache24/htdocs/html5/index1.php' not found or unable to stat, referer: http://html5.loc/index.php
+[Sun Mar 30 19:28:42.793120 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:3542] PHP Notice:  Array to string conversion in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 49
+[Sun Mar 30 19:28:58.382002 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:3554] PHP Notice:  Array to string conversion in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 49
+[Sun Mar 30 19:28:59.150047 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:3554] PHP Notice:  Array to string conversion in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 49
+[Sun Mar 30 19:29:17.247135 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:3577] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 48
+[Sun Mar 30 19:29:18.429186 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:3577] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 48
+[Sun Mar 30 19:29:39.796450 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:3599] PHP Notice:  Array to string conversion in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 50
+[Sun Mar 30 19:29:40.782452 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:3599] PHP Notice:  Array to string conversion in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 50
+[Sun Mar 30 19:29:51.485070 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:3610] PHP Notice:  Array to string conversion in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 51
+[Sun Mar 30 19:30:30.525365 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:3652] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 49
+[Sun Mar 30 19:30:31.227365 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:3652] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 49
+[Sun Mar 30 19:30:41.069934 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:3666] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 49
+[Sun Mar 30 19:30:41.722985 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:3666] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 49
+[Sun Mar 30 21:16:34.949009 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:9601] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/
+[Sun Mar 30 21:17:47.942219 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:9668] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/
+[Sun Mar 30 21:17:49.718324 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:9668] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/
+[Sun Mar 30 21:17:50.558346 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:9668] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/
+[Sun Mar 30 21:17:50.743386 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:9668] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/
+[Sun Mar 30 21:18:38.834153 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:9706] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/
+[Sun Mar 30 21:18:39.811191 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:9706] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/
+[Sun Mar 30 21:18:40.972273 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:9706] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/
+[Sun Mar 30 21:18:41.170286 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:9706] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/
+[Sun Mar 30 21:19:46.664130 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:9778] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/
+[Sun Mar 30 21:19:46.918079 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:9778] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/
+[Sun Mar 30 21:19:47.542130 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:9778] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/
+[Sun Mar 30 21:19:47.736136 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:9778] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/
+[Sun Mar 30 21:20:07.708270 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:9790] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/index.php
+[Sun Mar 30 21:20:08.275398 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:9790] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/index.php
+[Sun Mar 30 21:20:08.493314 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:9790] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/index.php
+[Sun Mar 30 21:20:08.692337 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:9790] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/index.php
+[Sun Mar 30 21:20:47.553572 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:9837] PHP Notice:  Undefined index: author in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 18, referer: http://html5.loc/index.php
+[Sun Mar 30 21:35:26.939429 2014] [:error] [pid 2280:tid 1012] [client 127.0.0.1:10736] script 'F:/WAMP/usr/Apache24/htdocs/html5/stat.php' not found or unable to stat, referer: http://html5.loc/index.php
+[Sun Mar 30 21:36:11.239976 2014] [:error] [pid 2280:tid 1008] [client 127.0.0.1:10784] script 'F:/WAMP/usr/Apache24/htdocs/html5/stat.php' not found or unable to stat, referer: http://html5.loc/index.php
+[Sun Mar 30 21:36:12.540006 2014] [:error] [pid 2280:tid 1008] [client 127.0.0.1:10784] script 'F:/WAMP/usr/Apache24/htdocs/html5/stat.php' not found or unable to stat, referer: http://html5.loc/index.php
+[Sun Mar 30 21:36:12.853048 2014] [:error] [pid 2280:tid 1008] [client 127.0.0.1:10784] script 'F:/WAMP/usr/Apache24/htdocs/html5/stat.php' not found or unable to stat, referer: http://html5.loc/index.php
+[Sun Mar 30 21:36:27.296915 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:10806] script 'F:/WAMP/usr/Apache24/htdocs/html5/stat.php' not found or unable to stat, referer: http://html5.loc/index.php
+[Sun Mar 30 21:54:52.664712 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:12117] PHP Warning:  PDOStatement::bindValue() expects at most 3 parameters, 4 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/index.php
+[Sun Mar 30 21:54:53.629772 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:12117] PHP Warning:  PDOStatement::bindValue() expects at most 3 parameters, 4 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/index.php
+[Sun Mar 30 21:54:55.490955 2014] [:error] [pid 2280:tid 1020] [client 127.0.0.1:12117] PHP Warning:  PDOStatement::bindValue() expects at most 3 parameters, 4 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 17, referer: http://html5.loc/index.php
+[Sun Mar 30 23:22:25.980651 2014] [:error] [pid 2280:tid 1028] [client 127.0.0.1:18046] PHP Warning:  file(test.txt): failed to open stream: No such file or directory in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 73
+[Sun Mar 30 23:22:26.759697 2014] [:error] [pid 2280:tid 1028] [client 127.0.0.1:18046] PHP Warning:  file(test.txt): failed to open stream: No such file or directory in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 73
+[Sun Mar 30 23:22:29.093855 2014] [:error] [pid 2280:tid 1028] [client 127.0.0.1:18046] PHP Warning:  file(test.txt): failed to open stream: No such file or directory in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 73
+[Sun Mar 30 23:22:59.079559 2014] [:error] [pid 2280:tid 1028] [client 127.0.0.1:18073] PHP Warning:  file(test.txt): failed to open stream: No such file or directory in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 73
+[Sun Mar 30 23:23:47.572362 2014] [:error] [pid 2280:tid 1028] [client 127.0.0.1:18124] PHP Warning:  file(test.txt): failed to open stream: No such file or directory in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 73
+[Sun Mar 30 23:34:07.807189 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18851] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 6, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:34:09.860309 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18851] PHP Warning:  mysql_connect():  in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 6, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:34:09.860309 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18851] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 7, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:34:09.860309 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18851] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 10, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:34:09.860309 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18851] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 29, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:34:09.860309 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18851] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 45, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:34:09.860309 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18851] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 56, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:34:09.860309 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18851] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 68, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:02.365342 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 6, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:04.361516 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Warning:  mysql_connect():  in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 6, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:04.361516 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 7, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:04.361516 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 10, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:04.361516 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 29, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:04.361516 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 45, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:04.361516 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 56, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:04.361516 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActions.php on line 68, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:10.450808 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActionsPagedSorted.php on line 6, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:12.463007 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Warning:  mysql_connect():  in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActionsPagedSorted.php on line 6, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:12.463007 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActionsPagedSorted.php on line 7, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:12.463007 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActionsPagedSorted.php on line 10, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:12.463007 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActionsPagedSorted.php on line 35, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:12.463007 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActionsPagedSorted.php on line 51, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:12.463007 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Notice:  Undefined index: action in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActionsPagedSorted.php on line 62, referer: http://html5.loc/jtable/
+[Sun Mar 30 23:35:12.463007 2014] [:error] [pid 2280:tid 992] [client 127.0.0.1:18901] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\jtable\\PersonActionsPagedSorted.php on line 74, referer: http://html5.loc/jtable/
+[Mon Mar 31 20:14:01.663764 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:12718] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 8, referer: http://html5.loc/
+[Mon Mar 31 20:14:01.663764 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:12718] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 9, referer: http://html5.loc/
+[Mon Mar 31 20:14:04.483910 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:12718] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 8, referer: http://html5.loc/
+[Mon Mar 31 20:14:04.483910 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:12718] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 9, referer: http://html5.loc/
+[Mon Mar 31 20:14:32.739549 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:12854] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 8, referer: http://html5.loc/
+[Mon Mar 31 20:15:08.161619 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:13014] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 14, referer: http://html5.loc/
+[Mon Mar 31 20:35:39.972743 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:18672] PHP Notice:  Undefined index: login in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Mon Mar 31 20:35:39.972743 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:18672] PHP Notice:  Undefined index: password in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11
+[Mon Mar 31 20:35:43.883011 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:18672] PHP Notice:  Undefined index: login in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Mon Mar 31 20:35:43.883011 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:18672] PHP Notice:  Undefined index: password in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11
+[Mon Mar 31 20:35:57.622807 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:18756] PHP Notice:  Undefined index: login in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Mon Mar 31 20:35:57.622807 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:18756] PHP Notice:  Undefined index: password in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11
+[Mon Mar 31 20:36:30.862715 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:18935] PHP Notice:  Undefined index: login in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Mon Mar 31 20:36:30.862715 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:18935] PHP Notice:  Undefined index: password in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11
+[Mon Mar 31 20:37:24.078754 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:19167] PHP Notice:  Undefined index: login in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Mon Mar 31 20:37:24.078754 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:19167] PHP Notice:  Undefined index: password in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 11
+[Mon Mar 31 20:38:46.691582 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:19515] PHP Notice:  Undefined index: l in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 9
+[Mon Mar 31 20:38:46.691582 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:19515] PHP Notice:  Undefined index: p in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Mon Mar 31 20:38:48.172623 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:19515] PHP Notice:  Undefined index: l in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 9
+[Mon Mar 31 20:38:48.172623 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:19515] PHP Notice:  Undefined index: p in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Mon Mar 31 20:38:49.836752 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:19515] PHP Notice:  Undefined index: l in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 9
+[Mon Mar 31 20:38:49.836752 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:19515] PHP Notice:  Undefined index: p in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 10
+[Mon Mar 31 20:39:34.803324 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:19718] PHP Notice:  Undefined variable: password in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 12
+[Mon Mar 31 20:39:35.758413 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:19718] PHP Notice:  Undefined variable: password in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 12
+[Mon Mar 31 20:42:20.316868 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:20460] PHP Notice:  Undefined index: name in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Mon Mar 31 20:42:43.891301 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:20583] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Mon Mar 31 20:43:58.615546 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:20946] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Mon Mar 31 20:52:12.362108 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:23524] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13, referer: http://html5.loc/
+[Mon Mar 31 20:52:24.419765 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:23584] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Mon Mar 31 20:52:25.634879 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:23584] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Mon Mar 31 20:55:59.218215 2014] [:error] [pid 7576:tid 1004] [client 127.0.0.1:24610] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Mon Mar 31 21:00:55.941315 2014] [:error] [pid 7576:tid 984] [client 127.0.0.1:25965] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Mon Mar 31 21:00:57.155432 2014] [:error] [pid 7576:tid 984] [client 127.0.0.1:25965] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Mon Mar 31 21:01:05.938893 2014] [:error] [pid 7576:tid 984] [client 127.0.0.1:26010] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Mon Mar 31 21:03:54.914652 2014] [:error] [pid 7576:tid 1028] [client 127.0.0.1:26837] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Mon Mar 31 21:03:57.172835 2014] [:error] [pid 7576:tid 1028] [client 127.0.0.1:26837] PHP Notice:  Trying to get property of non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php on line 13
+[Tue Apr 01 00:48:00.505363 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:1927] script 'F:/WAMP/usr/Apache24/htdocs/html5/ajaxx.php' not found or unable to stat, referer: http://html5.loc/
+[Tue Apr 01 00:48:16.876309 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:1938] script 'F:/WAMP/usr/Apache24/htdocs/html5/ajaxx.php' not found or unable to stat, referer: http://html5.loc/
+[Tue Apr 01 01:16:51.052389 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:2698] PHP Notice:  Undefined variable: _GLOBALS in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 8, referer: http://html5.loc/
+[Tue Apr 01 01:16:51.052389 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:2698] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:16:51.052389 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:2698] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:16:51.052389 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:2698] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:25:11.574248 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3029] PHP Warning:  json_decode() expects parameter 1 to be string, array given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 10, referer: http://html5.loc/
+[Tue Apr 01 01:25:11.574248 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3029] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:25:11.574248 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3029] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:25:11.574248 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3029] PHP   2. json_decode() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:10, referer: http://html5.loc/
+[Tue Apr 01 01:30:13.861709 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3246] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 12, referer: http://html5.loc/
+[Tue Apr 01 01:30:13.861709 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3246] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:30:13.861709 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3246] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:30:13.861709 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3246] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:30:32.489831 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3259] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 12, referer: http://html5.loc/
+[Tue Apr 01 01:30:32.489831 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3259] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:30:32.489831 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3259] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:30:32.489831 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3259] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:30:55.246142 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3272] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 12, referer: http://html5.loc/
+[Tue Apr 01 01:30:55.247142 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3272] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:30:55.247142 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3272] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:30:55.247142 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3272] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:32:45.506468 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3346] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 12, referer: http://html5.loc/
+[Tue Apr 01 01:32:45.506468 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3346] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:32:45.506468 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3346] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:32:45.506468 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3346] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:33:34.115302 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3379] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 11, referer: http://html5.loc/
+[Tue Apr 01 01:33:34.115302 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3379] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:33:34.115302 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3379] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:33:34.115302 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3379] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:33:55.560537 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3389] PHP Parse error:  syntax error, unexpected ';' in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 12, referer: http://html5.loc/
+[Tue Apr 01 01:33:55.560537 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3389] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:33:55.560537 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3389] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:34:06.601194 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3394] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 11, referer: http://html5.loc/
+[Tue Apr 01 01:34:06.601194 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3394] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:34:06.601194 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3394] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:34:06.601194 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3394] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:36:13.292471 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3495] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 10, referer: http://html5.loc/
+[Tue Apr 01 01:36:13.292471 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3495] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:36:13.292471 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3495] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:36:13.292471 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3495] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:37:03.545374 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3528] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 10, referer: http://html5.loc/
+[Tue Apr 01 01:37:03.545374 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3528] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:37:03.545374 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3528] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:37:03.545374 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3528] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:37:37.165346 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3547] PHP Warning:  PDO::__construct() expects at least 1 parameter, 0 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 7, referer: http://html5.loc/
+[Tue Apr 01 01:37:37.165346 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3547] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:37:37.165346 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3547] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:37:37.165346 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3547] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:37:37.165346 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3547] PHP   3. PDO->__construct() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:7, referer: http://html5.loc/
+[Tue Apr 01 01:37:37.165346 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3547] PHP Fatal error:  Call to a member function prepare() on a non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 9, referer: http://html5.loc/
+[Tue Apr 01 01:37:37.165346 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3547] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:37:37.166316 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3547] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:37:37.166316 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3547] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:37:46.654891 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3552] PHP Warning:  PDO::__construct() expects at least 1 parameter, 0 given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 7, referer: http://html5.loc/
+[Tue Apr 01 01:37:46.654891 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3552] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:37:46.654891 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3552] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:37:46.654891 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3552] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:37:46.654891 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3552] PHP   3. PDO->__construct() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:7, referer: http://html5.loc/
+[Tue Apr 01 01:37:46.655919 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3552] PHP Fatal error:  Call to a member function prepare() on a non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 9, referer: http://html5.loc/
+[Tue Apr 01 01:37:46.655919 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3552] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:37:46.655919 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3552] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:37:46.655919 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3552] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:37:55.997406 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3572] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 10, referer: http://html5.loc/
+[Tue Apr 01 01:37:55.997406 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3572] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:37:55.997406 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3572] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:37:55.997406 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3572] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2, referer: http://html5.loc/
+[Tue Apr 01 01:38:01.058701 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3578] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 10
+[Tue Apr 01 01:38:01.058701 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3578] PHP Stack trace:
+[Tue Apr 01 01:38:01.058701 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3578] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:38:01.058701 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3578] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:41:10.771718 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3646] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 13
+[Tue Apr 01 01:41:10.771718 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3646] PHP Stack trace:
+[Tue Apr 01 01:41:10.771718 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3646] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:41:10.771718 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3646] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:41:11.667766 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3646] PHP Fatal error:  Call to undefined method PDO::bindValue() in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 13
+[Tue Apr 01 01:41:11.667766 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3646] PHP Stack trace:
+[Tue Apr 01 01:41:11.667766 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3646] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:41:11.667766 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3646] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:43:19.018114 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP Notice:  Undefined variable: dbh in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 7
+[Tue Apr 01 01:43:19.018114 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP Stack trace:
+[Tue Apr 01 01:43:19.018114 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:43:19.018114 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:43:19.018114 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP Fatal error:  Call to a member function prepare() on a non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 11
+[Tue Apr 01 01:43:19.018114 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP Stack trace:
+[Tue Apr 01 01:43:19.018114 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:43:19.018114 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:43:20.743226 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP Notice:  Undefined variable: dbh in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 7
+[Tue Apr 01 01:43:20.743226 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP Stack trace:
+[Tue Apr 01 01:43:20.743226 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:43:20.743226 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:43:20.743226 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP Fatal error:  Call to a member function prepare() on a non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 11
+[Tue Apr 01 01:43:20.743226 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP Stack trace:
+[Tue Apr 01 01:43:20.743226 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:43:20.743226 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3715] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:43:32.088821 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3721] PHP Notice:  Undefined variable: dbh in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 10
+[Tue Apr 01 01:43:32.088821 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3721] PHP Stack trace:
+[Tue Apr 01 01:43:32.088821 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3721] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:43:32.088821 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3721] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:43:32.088821 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3721] PHP Fatal error:  Call to a member function prepare() on a non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 10
+[Tue Apr 01 01:43:32.088821 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3721] PHP Stack trace:
+[Tue Apr 01 01:43:32.088821 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3721] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:43:32.088821 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3721] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:47:24.638257 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP Notice:  Undefined variable: db in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:47:24.638257 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP Stack trace:
+[Tue Apr 01 01:47:24.638257 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:47:24.639256 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:47:24.639256 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP Fatal error:  Call to a member function execute() on a non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:47:24.639256 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP Stack trace:
+[Tue Apr 01 01:47:24.639256 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:47:24.639256 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:47:25.577315 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP Notice:  Undefined variable: db in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:47:25.577315 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP Stack trace:
+[Tue Apr 01 01:47:25.577315 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:47:25.577315 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:47:25.577315 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP Fatal error:  Call to a member function execute() on a non-object in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:47:25.577315 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP Stack trace:
+[Tue Apr 01 01:47:25.577315 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:47:25.577315 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3923] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:47:45.978519 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3936] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:47:45.978519 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3936] PHP Stack trace:
+[Tue Apr 01 01:47:45.978519 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3936] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:47:45.978519 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3936] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:47:45.978519 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3936] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:47:46.071536 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3936] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:47:46.071536 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3936] PHP Stack trace:
+[Tue Apr 01 01:47:46.071536 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3936] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:47:46.071536 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3936] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:47:46.071536 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3936] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:48:16.651262 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3949] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:48:16.651262 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3949] PHP Stack trace:
+[Tue Apr 01 01:48:16.651262 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3949] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:48:16.651262 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3949] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:48:16.651262 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3949] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:48:16.750265 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3949] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:48:16.750265 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3949] PHP Stack trace:
+[Tue Apr 01 01:48:16.750265 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3949] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:48:16.750265 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3949] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:48:16.750265 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3949] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:49:35.022848 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:49:35.022848 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP Stack trace:
+[Tue Apr 01 01:49:35.022848 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:49:35.022848 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:49:35.022848 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:49:35.092848 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:49:35.092848 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP Stack trace:
+[Tue Apr 01 01:49:35.092848 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:49:35.093837 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:49:35.093837 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:49:35.704887 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:49:35.705889 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP Stack trace:
+[Tue Apr 01 01:49:35.705889 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:49:35.705889 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:49:35.705889 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:49:35.788895 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:49:35.788895 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP Stack trace:
+[Tue Apr 01 01:49:35.788895 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:49:35.788895 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:49:35.789873 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:3990] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:49:42.670240 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4003] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21, referer: http://html5.loc/
+[Tue Apr 01 01:49:42.670240 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4003] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 01:49:42.670240 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4003] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 01:49:42.670240 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4003] PHP   2. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21, referer: http://html5.loc/
+[Tue Apr 01 01:50:34.915297 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:50:34.915297 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Stack trace:
+[Tue Apr 01 01:50:34.915297 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:50:34.915297 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:50:34.915297 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:50:35.011282 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:50:35.011282 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Stack trace:
+[Tue Apr 01 01:50:35.011282 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:50:35.011282 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:50:35.011282 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:50:35.694309 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:50:35.694309 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Stack trace:
+[Tue Apr 01 01:50:35.694309 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:50:35.694309 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:50:35.694309 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:50:35.790357 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:50:35.790357 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Stack trace:
+[Tue Apr 01 01:50:35.790357 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:50:35.790357 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:50:35.790357 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:50:37.042430 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:50:37.043424 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Stack trace:
+[Tue Apr 01 01:50:37.043424 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:50:37.043424 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:50:37.043424 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:50:37.145402 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:50:37.145402 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Stack trace:
+[Tue Apr 01 01:50:37.145402 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:50:37.145402 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:50:37.145402 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:50:38.292505 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:50:38.293490 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Stack trace:
+[Tue Apr 01 01:50:38.293490 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:50:38.293490 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:50:38.293490 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:50:38.360493 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21
+[Tue Apr 01 01:50:38.360493 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP Stack trace:
+[Tue Apr 01 01:50:38.360493 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:50:38.360493 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:50:38.360493 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4022] PHP   3. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21
+[Tue Apr 01 01:53:01.056688 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4118] PHP Notice:  Use of undefined constant ERROR - assumed 'ERROR' in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 16
+[Tue Apr 01 01:53:01.056688 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4118] PHP Stack trace:
+[Tue Apr 01 01:53:01.056688 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4118] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:53:01.056688 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4118] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:53:01.056688 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4118] PHP Notice:  Use of undefined constant ERROR - assumed 'ERROR' in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 17
+[Tue Apr 01 01:53:01.056688 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4118] PHP Stack trace:
+[Tue Apr 01 01:53:01.056688 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4118] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:53:01.056688 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4118] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 01:58:21.156242 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4273] PHP Notice:  Undefined variable: hash in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 22
+[Tue Apr 01 01:58:21.156242 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4273] PHP Stack trace:
+[Tue Apr 01 01:58:21.156242 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4273] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 01:58:21.156242 2014] [:error] [pid 25432:tid 968] [client 127.0.0.1:4273] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 02:03:31.906129 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4448] PHP Notice:  Use of undefined constant value - assumed 'value' in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 23, referer: http://html5.loc/
+[Tue Apr 01 02:03:31.906129 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4448] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 02:03:31.906129 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4448] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 02:03:31.906129 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4448] PHP Notice:  Undefined variable: hash in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 24, referer: http://html5.loc/
+[Tue Apr 01 02:03:31.906129 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4448] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 02:03:31.906129 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4448] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 02:05:13.472996 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4483] PHP Parse error:  syntax error, unexpected '{' in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 22, referer: http://html5.loc/
+[Tue Apr 01 02:05:18.241326 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4483] PHP Parse error:  syntax error, unexpected '{' in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 22
+[Tue Apr 01 02:05:18.241326 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4483] PHP Stack trace:
+[Tue Apr 01 02:05:18.241326 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4483] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 02:05:19.240331 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4483] PHP Parse error:  syntax error, unexpected '{' in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 22
+[Tue Apr 01 02:05:19.240331 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4483] PHP Stack trace:
+[Tue Apr 01 02:05:19.240331 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4483] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 02:06:33.375641 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4513] PHP Notice:  Undefined variable: ur6DpNv4xcO6vGNdYUOd in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 22
+[Tue Apr 01 02:06:33.375641 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4513] PHP Stack trace:
+[Tue Apr 01 02:06:33.375641 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4513] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 02:06:33.375641 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4513] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 02:06:34.618685 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4513] PHP Notice:  Undefined variable: ur6DpNv4xcO6vGNdYUOd in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 22
+[Tue Apr 01 02:06:34.618685 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4513] PHP Stack trace:
+[Tue Apr 01 02:06:34.618685 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4513] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 02:06:34.618685 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4513] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:2
+[Tue Apr 01 02:09:07.497541 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4608] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 15
+[Tue Apr 01 02:09:07.497541 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4608] PHP Stack trace:
+[Tue Apr 01 02:09:07.497541 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4608] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 02:09:18.504203 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4613] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 15
+[Tue Apr 01 02:09:18.504203 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4613] PHP Stack trace:
+[Tue Apr 01 02:09:18.504203 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4613] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 02:09:19.251238 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4613] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 15
+[Tue Apr 01 02:09:19.251238 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4613] PHP Stack trace:
+[Tue Apr 01 02:09:19.251238 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4613] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\index.php:0
+[Tue Apr 01 02:11:23.021345 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4667] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 21, referer: http://html5.loc/
+[Tue Apr 01 02:11:23.021345 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4667] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 02:11:23.021345 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4667] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 02:11:23.021345 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4667] PHP   2. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:21, referer: http://html5.loc/
+[Tue Apr 01 02:11:23.021345 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4667] PHP Notice:  Undefined variable: hash in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 24, referer: http://html5.loc/
+[Tue Apr 01 02:11:23.021345 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4667] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 02:11:23.022398 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:4667] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 02:27:21.790771 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 28, referer: http://html5.loc/
+[Tue Apr 01 02:27:21.790771 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 02:27:21.790771 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 02:27:21.790771 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP   2. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:28, referer: http://html5.loc/
+[Tue Apr 01 02:27:27.785118 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 28, referer: http://html5.loc/
+[Tue Apr 01 02:27:27.785118 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 02:27:27.785118 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 02:27:27.785118 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP   2. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:28, referer: http://html5.loc/
+[Tue Apr 01 02:27:40.002822 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 28, referer: http://html5.loc/
+[Tue Apr 01 02:27:40.002822 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 02:27:40.002822 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 02:27:40.002822 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5102] PHP   2. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:28, referer: http://html5.loc/
+[Tue Apr 01 02:28:51.726975 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5163] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 27, referer: http://html5.loc/
+[Tue Apr 01 02:28:51.726975 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5163] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 02:28:51.726975 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5163] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 02:28:51.726975 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:5163] PHP   2. PDOStatement->execute() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:27, referer: http://html5.loc/
+[Tue Apr 01 02:52:09.172703 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:6127] PHP Notice:  Undefined variable: hash in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 23, referer: http://html5.loc/
+[Tue Apr 01 02:52:09.172703 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:6127] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 02:52:09.172703 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:6127] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 11:57:06.862001 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:10311] PHP Notice:  Undefined variable: hast in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 28, referer: http://html5.loc/
+[Tue Apr 01 11:57:06.862001 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:10311] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 11:57:06.862001 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:10311] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Tue Apr 01 11:57:24.030942 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:10320] PHP Notice:  Undefined variable: hast in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php on line 28, referer: http://html5.loc/
+[Tue Apr 01 11:57:24.030942 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:10320] PHP Stack trace:, referer: http://html5.loc/
+[Tue Apr 01 11:57:24.030942 2014] [:error] [pid 25432:tid 976] [client 127.0.0.1:10320] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\ajax.php:0, referer: http://html5.loc/
+[Wed Apr 02 01:41:37.523796 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43888] PHP Warning:  include(tpl/auth.php): failed to open stream: No such file or directory in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\index.php on line 12
+[Wed Apr 02 01:41:37.523796 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43888] PHP Stack trace:
+[Wed Apr 02 01:41:37.523796 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43888] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\index.php:0
+[Wed Apr 02 01:41:37.537813 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43888] PHP Warning:  include(): Failed opening 'tpl/auth.php' for inclusion (include_path='.;C:\\php\\pear') in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\index.php on line 12
+[Wed Apr 02 01:41:37.537813 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43888] PHP Stack trace:
+[Wed Apr 02 01:41:37.537813 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43888] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\index.php:0
+[Wed Apr 02 01:42:56.730379 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43930] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\tpl\\footer.php on line 3
+[Wed Apr 02 01:42:56.730379 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43930] PHP Stack trace:
+[Wed Apr 02 01:42:56.730379 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43930] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\index.php:0
+[Wed Apr 02 01:42:56.730379 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43930] PHP   2. include_once() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\index.php:22
+[Wed Apr 02 01:42:56.730379 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:43930] PHP   3. date() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\tpl\\footer.php:3
+[Wed Apr 02 02:48:15.234670 2014] [:error] [pid 25432:tid 1008] [client 127.0.0.1:46988] PHP Warning:  json_decode() expects parameter 1 to be string, array given in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\controllers\\auth.php on line 16, referer: http://html5.loc/web/?act=auth
+[Wed Apr 02 02:48:15.234670 2014] [:error] [pid 25432:tid 1008] [client 127.0.0.1:46988] PHP Stack trace:, referer: http://html5.loc/web/?act=auth
+[Wed Apr 02 02:48:15.234670 2014] [:error] [pid 25432:tid 1008] [client 127.0.0.1:46988] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\index.php:0, referer: http://html5.loc/web/?act=auth
+[Wed Apr 02 02:48:15.234670 2014] [:error] [pid 25432:tid 1008] [client 127.0.0.1:46988] PHP   2. include() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\index.php:13, referer: http://html5.loc/web/?act=auth
+[Wed Apr 02 02:48:15.234670 2014] [:error] [pid 25432:tid 1008] [client 127.0.0.1:46988] PHP   3. json_decode() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\controllers\\auth.php:16, referer: http://html5.loc/web/?act=auth
+[Wed Apr 02 03:05:00.466750 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:47726] PHP Notice:  Use of undefined constant json - assumed 'json' in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\controllers\\auth.php on line 4, referer: http://html5.loc/web/
+[Wed Apr 02 03:05:00.466750 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:47726] PHP Stack trace:, referer: http://html5.loc/web/
+[Wed Apr 02 03:05:00.466750 2014] [:error] [pid 25432:tid 1044] [client 127.0.0.1:47726] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\controllers\\auth.php:0, referer: http://html5.loc/web/
+[Wed Apr 02 03:05:13.833512 2014] [:error] [pid 25432:tid 1008] [client 127.0.0.1:47739] PHP Notice:  Use of undefined constant json - assumed 'json' in F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\controllers\\auth.php on line 4, referer: http://html5.loc/web/
+[Wed Apr 02 03:05:13.833512 2014] [:error] [pid 25432:tid 1008] [client 127.0.0.1:47739] PHP Stack trace:, referer: http://html5.loc/web/
+[Wed Apr 02 03:05:13.833512 2014] [:error] [pid 25432:tid 1008] [client 127.0.0.1:47739] PHP   1. {main}() F:\\WAMP\\usr\\Apache24\\htdocs\\html5\\web\\controllers\\auth.php:0, referer: http://html5.loc/web/
