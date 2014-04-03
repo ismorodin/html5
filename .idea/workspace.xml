@@ -2,32 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c0d8b63-9fc6-4581-8ebd-0f24a76835bb" name="Default" comment="new template for langPage&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tpl-visitors/img/orbit/bullets.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tpl-visitors/img/orbit/left-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tpl-visitors/img/orbit/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tpl-visitors/img/orbit/mask-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tpl-visitors/img/orbit/pause-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tpl-visitors/img/orbit/right-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tpl-visitors/img/orbit/rotator-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tpl-visitors/img/orbit/timer-black.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/div.html" afterPath="$PROJECT_DIR$/div.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tpl-visitors/index.html" afterPath="$PROJECT_DIR$/tpl-visitors/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery_1.1.js" afterPath="$PROJECT_DIR$/js/jquery_1.1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tpl-visitors/js/lightbox-2.6.min.js" afterPath="$PROJECT_DIR$/tpl-visitors/js/lightbox-2.6.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tpl-visitors/css/main.css" afterPath="$PROJECT_DIR$/tpl-visitors/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tpl-visitors/js/main.js" afterPath="$PROJECT_DIR$/tpl-visitors/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tpl-visitors/css/normalize.css" afterPath="$PROJECT_DIR$/tpl-visitors/css/normalize.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/park.iml" afterPath="$PROJECT_DIR$/.idea/park.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="park.iws" />
@@ -94,7 +68,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="24" selection-start="888" selection-end="888" vertical-scroll-proportion="-8.5161295" vertical-offset="648" max-vertical-offset="1584">
+            <state line="37" column="24" selection-start="1300" selection-end="1300" vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="1608">
               <folding />
             </state>
           </provider>
@@ -103,13 +77,13 @@
       <file leaf-file-name="ajax.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ajax.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="20" selection-start="735" selection-end="735" vertical-scroll-proportion="0.49473685" vertical-offset="223" max-vertical-offset="984">
+            <state line="22" column="20" selection-start="684" selection-end="684" vertical-scroll-proportion="0.681203" vertical-offset="75" max-vertical-offset="984">
               <folding>
-                <marker date="1396337356232" expanded="true" signature="463:508" placeholder="INSERT INTO ..." />
-                <marker date="1396337356232" expanded="true" signature="535:586" placeholder="SELECT login..users..." />
-                <marker date="1396337356232" expanded="true" signature="648:694" placeholder="SELECT login..users..." />
-                <marker date="1396337356232" expanded="true" signature="884:932" placeholder="INSERT INTO ..." />
-                <marker date="1396337356232" expanded="true" signature="884:933" placeholder="INSERT INTO ..." />
+                <marker date="1396339059989" expanded="true" signature="463:508" placeholder="INSERT INTO ..." />
+                <marker date="1396339059989" expanded="true" signature="535:586" placeholder="SELECT login..users..." />
+                <marker date="1396339059989" expanded="true" signature="648:694" placeholder="SELECT login..users..." />
+                <marker date="1396339059989" expanded="true" signature="869:917" placeholder="INSERT INTO ..." />
+                <marker date="1396339059989" expanded="true" signature="869:918" placeholder="INSERT INTO ..." />
               </folding>
             </state>
           </provider>
@@ -305,66 +279,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="park" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="park" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tpl-visitors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="park" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tpl-visitors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="park" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tpl-visitors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -407,7 +321,17 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="3">
@@ -459,18 +383,18 @@
     <option name="totallyTimeSpent" value="321000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Plugins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.49968213" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20811099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20811099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30769232" sideWeight="0.4987755" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21320346" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -764,20 +688,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="24" selection-start="888" selection-end="888" vertical-scroll-proportion="-8.5161295" vertical-offset="648" max-vertical-offset="1584">
+        <state line="37" column="24" selection-start="1300" selection-end="1300" vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="1608">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="20" selection-start="735" selection-end="735" vertical-scroll-proportion="0.49473685" vertical-offset="223" max-vertical-offset="984">
+        <state line="22" column="20" selection-start="684" selection-end="684" vertical-scroll-proportion="0.681203" vertical-offset="75" max-vertical-offset="984">
           <folding>
-            <marker date="1396337356232" expanded="true" signature="463:508" placeholder="INSERT INTO ..." />
-            <marker date="1396337356232" expanded="true" signature="535:586" placeholder="SELECT login..users..." />
-            <marker date="1396337356232" expanded="true" signature="648:694" placeholder="SELECT login..users..." />
-            <marker date="1396337356232" expanded="true" signature="884:932" placeholder="INSERT INTO ..." />
-            <marker date="1396337356232" expanded="true" signature="884:933" placeholder="INSERT INTO ..." />
+            <marker date="1396339059989" expanded="true" signature="463:508" placeholder="INSERT INTO ..." />
+            <marker date="1396339059989" expanded="true" signature="535:586" placeholder="SELECT login..users..." />
+            <marker date="1396339059989" expanded="true" signature="648:694" placeholder="SELECT login..users..." />
+            <marker date="1396339059989" expanded="true" signature="869:917" placeholder="INSERT INTO ..." />
+            <marker date="1396339059989" expanded="true" signature="869:918" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
